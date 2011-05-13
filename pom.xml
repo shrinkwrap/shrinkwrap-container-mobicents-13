@@ -15,7 +15,7 @@
 
    <groupId>org.jboss.shrinkwrap.container</groupId>
    <artifactId>shrinkwrap-container-mobicents-13</artifactId>
-   <version>1.0.0-beta-1</version>
+   <version>1.0.0-beta-2-SNAPSHOT</version>
    <name>ShrinkWrap Mobicents Sip Servles 1.x Integration Extension</name>
    <description>ShrinkWrap integration extension for the Mobicents Sip Servles 1.x container</description>
 
